@@ -1,1 +1,2 @@
-# Ejercicios_con_While_y_Do_While
+# JavaScript
+Curso de JavaScript
